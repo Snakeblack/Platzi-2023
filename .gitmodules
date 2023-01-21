@@ -4,3 +4,6 @@
 [submodule "fundamentos-angular"]
 	path = fundamentos-angular
 	url = https://github.com/Snakeblack/fundamentos-angular
+[submodule "angular-componentes-servicios"]
+	path = angular-componentes-servicios
+	url = https://github.com/Snakeblack/angular-componentes-servicios.git
