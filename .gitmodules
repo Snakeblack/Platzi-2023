@@ -7,3 +7,6 @@
 [submodule "angular-componentes-servicios"]
 	path = angular-componentes-servicios
 	url = https://github.com/Snakeblack/angular-componentes-servicios.git
+[submodule "curso-codigo-limpio-csharp"]
+	path = curso-codigo-limpio-csharp
+	url = https://github.com/Snakeblack/curso-codigo-limpio-csharp.git
